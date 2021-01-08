@@ -38,6 +38,8 @@ ${ data.testInstructions }
 
 ## Questions
 
+Contact me using the links below with any questions.
+
  - [github.com/${data.githubUsername}](https://github.com/${data.githubUsername})
  - [${data.email}](${data.email})
 
