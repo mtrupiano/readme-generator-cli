@@ -28,6 +28,10 @@ ${ data.installInstructions }
 
 ${ data.usageInfo }
 
+## License
+
+
+
 ## Contributing
 
 ${ data.contributionGuidelines }
@@ -41,11 +45,7 @@ ${ data.testInstructions }
 Contact me using the links below with any questions.
 
  - [github.com/${data.githubUsername}](https://github.com/${data.githubUsername})
- - [${data.email}](${data.email})
-
-## Licensing
-
-    `;
+ - [${data.email}](${data.email})`;
 
     fs.writeFile(fileName, content, function(err) {
         if (err) {
