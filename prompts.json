@@ -1,7 +1,48 @@
 [
     {
-            "type": "input",
-            "message": "What is the title of your project?",
-            "name": "projectTitle"
+        "type": "input",
+        "message": "What is the title of your project?",
+        "name": "title"
+    }, {
+        "type": "input",
+        "message": "Please enter a description of your project.",
+        "name": "description"
+    }, {
+        "type": "input",
+        "message": "Please describe your project's installation process.",
+        "name": "installInstructions"
+    }, {
+        "type": "input",
+        "message": "Please describe any usage details regarding your project.",
+        "name": "usageInfo"
+    }, {
+        "type": "input",
+        "message": "Please describe any contribution guidelines for your project",
+        "name": "contributionGuidelines"
+    }, {
+        "type": "input",
+        "message": "Please enter a description of your project.",
+        "name": "testInstructions"
+    }, {
+        "type": "checkbox",
+        "message": "Select all relevant licenses for this project.",
+        "choices": [
+            "Academic Free License v3.0",
+            "Apache license 2.0",
+            "Artistic licenst 2.0",
+            "Boost Software License 1.0",
+            "BSD 2-clause \"Simplified\" license",
+            "BSD 3-clause \"New\" or \"Revised\" license",
+            "MIT"
+        ],
+        "name": "licenses"
+    }, {
+        "type": "input",
+        "message": "Enter your Github username.",
+        "name": "githubUsername"
+    }, {
+        "type": "input",
+        "message": "Enter your e-mail address.",
+        "name": "email"
     }
 ]
