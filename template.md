@@ -1,8 +1,8 @@
-# allmerkit
+# ${title}
 
 ## Description
 
-It's shit
+${data.description}
 
 ## Table of Contents
  - [Installation](#installation)
@@ -14,25 +14,24 @@ It's shit
 
 ## Installation
 
-install, profit
+${data.installInstructions}
 
 ## Usage
 
-use it??
+${}
 
 ## Contributing
 
-don't
+${}
 
 ## Testing
 
-asdf
+${}
 
 ## Questions
 
- - [github.com/mtrupiano](https://github.com/mtrupiano)
- - [mtrupiano2@gmail.com](mtrupiano2@gmail.com)
+${}
 
 ## Licensing
 
-    
+${}

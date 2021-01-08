@@ -27,8 +27,8 @@
         "type": "checkbox",
         "message": "Select all relevant licenses for this project.",
         "choices": [
-            "Academic Free License v3.0",
-            "Apache license 2.0",
+            "MIT",
+            "GPLv3",
             "Artistic licenst 2.0",
             "Boost Software License 1.0",
             "BSD 2-clause \"Simplified\" license",
