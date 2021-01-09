@@ -1,8 +1,12 @@
-# allmerkit
+# allmarket
+
+ - The MIT License
+ - The GNU Public License v3
+
 
 ## Description
 
-It's shit
+a;lsdjf;alsdkjf;akldsf
 
 ## Table of Contents
  - [Installation](#installation)
@@ -14,25 +18,30 @@ It's shit
 
 ## Installation
 
-install, profit
+alksdfhaklsdjfhkljasdhfklashdflka
 
 ## Usage
 
-use it??
+alskdfhaklsdjfhklajsdfhas
+
+## License
+
+This project is licensed under
+ - The MIT License
+ - The GNU Public License v3
+
 
 ## Contributing
 
-don't
+laksjdhflkajsdhf
 
 ## Testing
 
-asdf
+alksjdfhlkajsdfhlkjasdhfa
 
 ## Questions
 
+Contact me using the links below with any questions.
+
  - [github.com/mtrupiano](https://github.com/mtrupiano)
  - [mtrupiano2@gmail.com](mtrupiano2@gmail.com)
-
-## Licensing
-
-    

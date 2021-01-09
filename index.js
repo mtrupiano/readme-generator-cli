@@ -3,10 +3,22 @@ const fs        = require('fs');
 const prompts   = require('./prompts.json');
 const licenses  = require('./licenseBadges.json');
 
+
 function writeToFile(fileName, data) {
+
+    let licenseStr = "";
+    let licenseBadgeStr = "";
+
+    for (let i = 0; i < data.licenses.length; i++) {
+        let licenseObj = licenses.find(element => element.name === data.licenses[i])
+        licenseBadgeStr += licenseObj.badgeMD + " ";
+        licenseStr += " - " + licenseObj.descr + "\n\r";
+    }
 
     const content = 
 `# ${data.title}
+
+${licenseBadgeStr}
 
 ## Description
 
@@ -30,7 +42,8 @@ ${ data.usageInfo }
 
 ## License
 
-
+This project is licensed under:
+${licenseStr}
 
 ## Contributing
 

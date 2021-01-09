@@ -17,11 +17,11 @@
         "name": "usageInfo"
     }, {
         "type": "input",
-        "message": "Please describe any contribution guidelines for your project",
+        "message": "Please describe any contribution guidelines for your project.",
         "name": "contributionGuidelines"
     }, {
         "type": "input",
-        "message": "Please enter a description of your project.",
+        "message": "Please enter instructions for testing your project.",
         "name": "testInstructions"
     }, {
         "type": "checkbox",
@@ -29,11 +29,8 @@
         "choices": [
             "MIT",
             "GPLv3",
-            "Artistic licenst 2.0",
-            "Boost Software License 1.0",
-            "BSD 2-clause \"Simplified\" license",
-            "BSD 3-clause \"New\" or \"Revised\" license",
-            "MIT"
+            "GPL",
+            "Creative Commons"
         ],
         "name": "licenses"
     }, {

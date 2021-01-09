@@ -1,15 +1,19 @@
 [
     {
         "name": "MIT",
-        "badgeMD": "[![MIT license](https: //img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)"
+        "badgeMD": "[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)",
+        "descr": "The MIT License"
     }, {
         "name": "GPLv3",
-        "badgeMD": "[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)"
+        "badgeMD": "[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)",
+        "descr": "The GNU Public License v3"
     }, {
         "name": "GPL",
-        "badgeMD": "[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)"
+        "badgeMD": "[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)",
+        "descr": "The GNU Public License"
     }, {
         "name": "Creative Commons",
-        "badgeMD": "[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)"
+        "badgeMD": "[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)",
+        "descr": "Creative Commons"
     }
 ]
