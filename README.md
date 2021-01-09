@@ -1,12 +1,10 @@
-# allmarket
+# README Generator CLI
 
- - The MIT License
- - The GNU Public License v3
-
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) 
 
 ## Description
 
-a;lsdjf;alsdkjf;akldsf
+This is a command-line application used to generate simple yet professional README.md files for software projects.
 
 ## Table of Contents
  - [Installation](#installation)
@@ -18,26 +16,29 @@ a;lsdjf;alsdkjf;akldsf
 
 ## Installation
 
-alksdfhaklsdjfhkljasdhfklashdflka
+Clone the source repo and run 'npm init' in the local directory.
 
 ## Usage
 
-alskdfhaklsdjfhklajsdfhas
+See attached video.
+
+[![vid-embed](http://img.youtube.com/vi/2fDxdjGfs50/0.jpg)](https://youtu.be/2fDxdjGfs50)
 
 ## License
 
-This project is licensed under
+This project is licensed under:
  - The MIT License
- - The GNU Public License v3
+
+ - Creative Commons
 
 
 ## Contributing
 
-laksjdhflkajsdhf
+N/A
 
 ## Testing
 
-alksjdfhlkajsdfhlkjasdhfa
+N/A
 
 ## Questions
 
